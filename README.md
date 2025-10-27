@@ -62,9 +62,13 @@ Precision / Recall / F1 Score shown per class
 Prediction Plot:
 A 50-day plot of actual vs predicted price directions.
 
-##viualising
-![visulise](visualise.png)
+## viualising Results
 
+This plot shows how well the model predicted the binary direction (up/down) of the stock price.
+
+![Actual vs Predicted Direction Plot](visualise.png)
+
+*Figure: Model predictions vs actual price direction over the last 50 days.*
 
 📬 Author
 

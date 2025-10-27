@@ -44,3 +44,27 @@ It was built in one day to demonstrate hands-on skills in applied ML, data valid
 python -m venv .venv
 source .venv/bin/activate      # or .venv\Scripts\activate on Windows
 pip install -r requirements.txt
+
+## Then Run the full pipeline step by step
+python fetch_data.py        # Step 1: Download stock data
+python validate_data.py     # Step 2: Clean + validate
+python features.py          # Step 3: Feature engineering
+python train_model.py       # Step 4: Train + evaluate model
+python visualize.py         # Step 5: Plot insights
+
+##Sample Output
+
+Accuracy Report:
+Accuracy: 0.65
+Precision / Recall / F1 Score shown per class
+
+Prediction Plot:
+A 50-day plot of actual vs predicted price directions.
+
+📬 Author
+
+Sujeeth Viswanathan
+
+License
+
+Apache 2.0

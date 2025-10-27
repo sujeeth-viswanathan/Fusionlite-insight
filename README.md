@@ -62,6 +62,9 @@ Precision / Recall / F1 Score shown per class
 Prediction Plot:
 A 50-day plot of actual vs predicted price directions.
 
+##viualising
+![visulise](visulise.png)
+
 
 📬 Author
 

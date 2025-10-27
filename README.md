@@ -51,7 +51,7 @@ python validate_data.py     # Step 2: Clean + validate
 python features.py          # Step 3: Feature engineering
 python train_model.py       # Step 4: Train + evaluate model
 python visualize.py         # Step 5: Plot insights
-
+---
 ##Sample Output
 
 Accuracy Report:

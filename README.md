@@ -63,7 +63,7 @@ Prediction Plot:
 A 50-day plot of actual vs predicted price directions.
 
 ##viualising
-![visulise](visulise.png)
+![visulise](visualise.png)
 
 
 📬 Author
